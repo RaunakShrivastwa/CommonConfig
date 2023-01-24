@@ -13,7 +13,7 @@ spring:
         dialect: org.hibernate.dialect.MySQL8Dialect
 
   application:
-    name: "UserService"
+    name: "Shubham"
 
 eureka:
   instance:
